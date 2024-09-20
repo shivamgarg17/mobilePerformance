@@ -32,6 +32,11 @@
             <scope>test</scope>
         </dependency>
 <!--        <dependency>-->
+<!--            <groupId>io.qameta.allure</groupId>-->
+<!--            <artifactId>allure-plugin</artifactId>-->
+<!--&lt;!&ndash;            <version>2.12.0</version> &lt;!&ndash; Ensure it's compatible with your Allure version &ndash;&gt;&ndash;&gt;-->
+<!--        </dependency>-->
+<!--        <dependency>-->
 <!--            <groupId>com.codeborne</groupId>-->
 <!--            <artifactId>selenide-testng</artifactId>-->
 <!--            <version>6.19.1</version>-->
